@@ -1,11 +1,14 @@
-# 👋 Hi, I’m @Readyray7513  
+#👋 Hi, I’m Thomas John Gough (aka @Readyray7513)
+👀 Passionate about data science, AI, and automation.
+🌱 Currently learning Python, SQL, Power BI, and machine learning.
+🤝 Open to collaborating on AI projects, data-driven apps, and anything that sharpens my problem-solving and coding skills.
+📫 Reach me via GitHub or email — always open to connecting and building cool things.
+😄 Pronouns: He/Him
+⚡ Fun fact: I can debug code faster than most people can Google the error message.
+🚀 Right now, I’m working through CS50x, CS50P, and CS50SQL, building a movie recommender system, and expanding my AI development toolkit.
 
-- 👀 I’m interested in data science, AI, and automation.  
-- 🌱 I’m currently learning Python, SQL, Power BI, and machine learning.  
-- 💞️ I’m looking to collaborate on AI projects, data-driven applications, and anything that helps sharpen my coding skills.  
-- 📫 How to reach me: Contact me via GitHub or email.  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I can debug code faster than most people can type their error message into Google.  
-
-🚀 Currently working on **CS50x, CS50P, and CS50SQL**, along with a **movie recommender system** and leveling up my AI skills.  
-
+🔗 Featured Projects
+🎥 Movie Recommender System (Content-Based)
+📊 Data Science Notebooks
+🧠 AI Experiments & Tools
+⚙️ Automation Scripts
